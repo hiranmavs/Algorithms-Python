@@ -1,1 +1,1 @@
-# TheAlgorithms-Python
+# DSA/Python
